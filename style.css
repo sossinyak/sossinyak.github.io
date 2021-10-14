@@ -1,0 +1,27 @@
+body {
+    background: #000 url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614379087_57-p-fon-dlya-prezentatsii-knigi-svetlii-62.jpg);
+    font-family: "DM Sans", sans-serif;
+    line-height: 1.5;
+    padding: 0.5rem 0.5rem;
+    background-color: #fed038;
+}
+
+
+.header {
+    background-color: white;
+    padding: 0.5em;
+    border-radius: 0.5em;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 0.5em;
+}
+
+ul.without_dots {
+    list-style-type: none;
+}
+
+image:hover {
+    outline: solid black 1px;
