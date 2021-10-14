@@ -25,3 +25,11 @@ ul.without_dots {
 
 image:hover {
     outline: solid black 1px;
+    
+li {
+    list-style-type: none;
+   }
+ul {
+    margin-right: 0;
+    padding-right: 0;
+   }
