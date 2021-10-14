@@ -1,5 +1,5 @@
 body {
-    background: #000 url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614379087_57-p-fon-dlya-prezentatsii-knigi-svetlii-62.jpg);
+    background: #000 url(https://phonoteka.org/uploads/posts/2021-04/1619565689_20-phonoteka_org-p-fon-dlya-knizhnoi-vistavki-v-biblioteke-25.jpg);
     font-family: "DM Sans", sans-serif;
     line-height: 1.5;
     padding: 0.5rem 0.5rem;
@@ -33,4 +33,9 @@ li {
 ul {
     margin-right: 0;
     padding-right: 0;
+   }
+
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
    }
