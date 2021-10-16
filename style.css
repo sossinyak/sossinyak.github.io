@@ -60,3 +60,7 @@ header {
     top: 0px;
     box-shadow: 0 2px 5px #5E5E5E;
 }
+header {
+   background: none; -> color: #f7f6b0;
+   border-bottom: 0px solid #000;
+}
