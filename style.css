@@ -39,3 +39,24 @@ ul {
     float:left; /* Выравнивание по левому краю */
     margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
    }
+
+footer {
+    clear: left;
+    width: 100%;
+    height: 30px;
+    background: #486BDB;
+    text-align: center;
+    font-style: italic;
+    padding-top: 10px;
+}
+
+header {
+    position: fixed;
+    z-index:: 5px;
+    width: 100%;
+    height: 50px;
+    background: #486BDB;
+    left: 0px;
+    top: 0px;
+    box-shadow: 0 2px 5px #5E5E5E;
+}
